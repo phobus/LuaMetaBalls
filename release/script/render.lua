@@ -1,4 +1,4 @@
-local luams = require("lib.LuaMarchingSquares.src.luams")
+local luams = require("lib.luams")
 
 local RENDER_TILE = "RENDER_TILE"
 local RENDER_LINE = "RENDER_LINE"
