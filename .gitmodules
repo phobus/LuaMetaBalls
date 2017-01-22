@@ -1,3 +1,6 @@
 [submodule "lib/LuaMarchingSquares"]
 	path = lib/LuaMarchingSquares
 	url = https://github.com/phobus/LuaMarchingSquares.git
+[submodule "love.js"]
+	path = love.js
+	url = https://github.com/TannerRogalsky/love.js.git
